@@ -1,0 +1,23 @@
+Lijst van verschillende shops
+
+	Potion shops: 	Sells mainly potions
+			buys mainly recipes, potions,
+			ingredients
+
+	Smith shops:	Sells mainly weapons, armor,
+			shields
+			buys mainly weapons, armor,
+			shields, ores, bars
+
+	General store:	Sells mainly miscelainous
+			buys mainly miscelainous
+
+	the Bazaar:	sells spells and abilities
+			buys spells and abilities
+
+Je kunt ingredienten en recepten omruilen voor wapens, schilden
+, armor of items, bij de verschillende winkels.
+Shops hebben allemaal limited quantiteit aan items
+en geld dat zij kunnen uitgeven.
+De stocksen het geld van winkels kunnen overtijd 
+bijgevuld worden.

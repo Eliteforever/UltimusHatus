@@ -1,0 +1,28 @@
+Lijst van Wapen Categorieën
+
+	Throwing
+	Bogen
+	Guns
+	Clubs
+	Gauntlets
+	Zwaard
+
+Schilden lijst
+	
+	Buckler	gewicht:Low 
+	Kite	gewicht:Med
+	Tower	gewicht:High
+
+Gewichtsysteem
+
+	Gewichtsysteem beïnvloed alleen de PC wanneer
+	de PC het gebruikt voor een blok.
+	De verschillender gewichten worden als volgd 
+	genoemd:
+	
+	Low: Stamina cons.range:1%-32%
+	Med: Stamina cons.range:33%-65%	
+	High: Stamina cons.range:66%-98%
+
+
+

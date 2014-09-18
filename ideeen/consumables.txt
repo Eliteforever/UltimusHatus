@@ -1,0 +1,122 @@
+Consumables
+
+Consumables zijn items die eenmalig gebruikt kunnen
+worden door de speler. Elk consumable heeft een 
+ander effect op de speler en NPC's.
+
+Lijst van consumables
+
+Potions
+Food
+Gems
+repair kit
+Orbs
+
+Potion
+
+Potions kunnen gebruikt worden om de speler te
+herstellen van bepaalde schade. Voornamelijk zijn
+potions bedoeld om de spelers HP, MP en SP te 
+herstellen. Potions kunnen ook natuurlijk andere
+effecten hebben zoals het tijdelijk verhogen van
+bepaalde skills wat er voor zorgt dat de speler meer schade kan doen in kortere tijd.
+
+Potions,voornamelijk HP, MP en SP potions, kunnen gekocht
+worden in een potion store. Uiteraad zijn er ook 
+potions die de speler nieuwe abilities en spells
+kunnen geven, maar deze zijn minstens rare.
+
+Potions kunnen ook op NPC's geworpen worden. Dit
+kan met elk type potion, zolang het geëquipt is
+in de wapenslot. Let wel op! De potions doen geen
+schade op de enemies en de enemies krijgen de effecten
+van de potions. Dus een hp potions zou de enemie healen.
+
+Lijst van potion types
+
+Point Restoration potions, voor HP, MP, SP.
+Skill Repairement potions, voor wanneer skills verzwakt zijn door bepaalde effecten.
+Poison, gif voor wie het gebruikt of op zich krijgt. Doet schade over tijd voor een bepaalde tijd.
+Corrosive, een corrosief mengsel dat veel schade vericht op huid of harnas (hangt van de corrsive af).
+Enhanchment Poiton, verhoogt bepaald skills zodat speler meer damage kan doen.
+Special Effect potion, potions die bepaalde effecten geven aan de speler(tijdelijk) dit kan van alles zijn. Van het veranderen in een boom tot ontzichtbaarheid.
+
+Food
+
+Food of voedsel zijn consumables die speler altijd
+healen (instant) en meer dan een HP potion van het zelfde level.
+Food is ook een consumable die vaker wordt gedropt door NPC's dan potions. Food kan uiteraad ook gekocht worden in de General store.
+Maar voor het beste en vreemdste food kan de speler beter naar the Bazaar gaan. Hoewel zein de Bazaar slechts soms food verkopen
+de food die wordt verkocht zijn special foods en zijn altijd beter dan de food van de general store, maar ook in minder quantiteit.
+
+Lijst van Food types
+
+Meat, meest common drop. Kan aan een general store worden gegeven om er Cooked meat van te maken.
+Cooked meat, kan alleen verkregen wanneer de speler meat aan een general store heeft gegeven. Vaak kost het nog een klein getal om terug te krijgen. Het healt meer dan meat.
+Vegetables/Fruits, Kunnen gevonden worden door over gewassen heen te lopen. Healt minder dan meat maar is makkelijker te verkijgen.
+Prepared Meals, Kan worden gevonden in camps, gekocht worden in General stores of monster drop(uncommon). Healt het op 1 na meest van alle foods en heeft vaak een tijdelijke buff voor de player.
+Wonder meals, zijn alleen te koop in de Bazaars of te krijgen van minibosses en sidebosses. Dit food healt het meest en als het gegeten wordt wanneer de speler full HP is krijgt de speler bonus HP.
+Magical Wonder meals, Dit zijn een soort van Special Effect potions, maar in tegenstelling tot Special Effect potions duren de effecten van magical wonder meals veel langer. Zijn alleen te 
+			verkijgen in de Bazaar of als drops van sidebosses en campbosses. De speler krijgt ook bonus hp wanneer de speler dit food eet terwijl full health. Er is ook een kans dat 
+ 			de speler permanent een skill verhoogd.
+Divine Wonder meals, Aleen te verkijgen door recipes in te leveren bij een foodseller in de bazaar. De Divine Wonder Meals zijn meals die permanent met de speler wordt gelinkt en de speler
+			om de zoveel tijd opnieuw kan eten. De effecten van Divine Wonder Meals zijn dat de speler niet alleen instant full health healt, maar na eerse consumptie 
+			unlocked de speler een nieuwe spell.
+
+Lijst van recipes
+
+Cooked meat recipe, er zijn speciale cooked meats die alleen gemaakt kunnen worden bij de general store waar de cooked meat recipe gegeven is.
+Prepared meal recipe, Er zijn bepaalde prepared meals die unlocked worden door het inleveren van deze recipes.
+Wonder meals, Deze recipes worden alleen gedropt door minibosses en sidebosses.
+Magical Wonder meals, De recipes voor deze meal zijn altijd beter dan magical wonder meals die je al kunt kopen (zogenaamde recipeless meals).
+Divine Wonder Meals recipe, Dit is de enige foodtype die alleen maar verkrijgbaar zijn wanneer de speler een recipe heeft ingeleverd. Deze recipetype wordt alleen maar door sidebosses en campbosses gedropt.
+
+Recipes kunnen natuurlijk ook gewoon verkocht worden inplaats van ingeleverd. Let wel op! Wanneer je eerst een recipe verkoopt zal de general store nog steeds hetzelfde recipe accepteren,
+maar als de speler eerst de recipe heeft ingeleverd dan koopt de general store de recipe niet dubbel. Gelukkig is elke general store en Bazaar uniek en kan de speler meerder dubbele recipes bij 
+verschillende stores verkopen of overhandigen.
+
+Gem
+
+Gems zijn consumables die wapens, schilden en armor kunnen versterken. Zowel tijdelijk als permanent. Let wel op! Gems kunnen alleen eenmalig op een wapen, schild of armor gebruikt worden waar na
+de gem verwoest, of de effect nou permanent is of niet. Ook kan een effect van een gem op de wapen, schild en armor niet gecancelled of verwijdert worden. Gems kunnen bij de smith store, general store
+en Bazaar gekocht en verkocht worden. Maar de speler komt ze meer tegen als drops.
+
+Lijst van Gemtypes
+
+Enhancement gem, verhoogd de base stats van het item waarop het gebruikt is. Is vaker tijdelijk dan permanent.
+Super Enhancement gem, verhoogd scaling en base stats van de item waarop het gebruikt is. Is vaker tijdelijk dan permanent.
+Ultra Enhancement gem, verhoogd scaling en base stats van item waarop het gebruikt is en geeft ook aan het item een elemental enchantment. Is vaker tijdelijk dan permanent.
+Repair gem, Zeldzame gems die wapens, schilden en armor succesvol repareren. Het aantal durability die het repareert is tussen de 10 en max durabiity.
+Effect gem, items waarop het gebruikt wordt krijgen een effect er bij. Is vaker permanent dan tijdelijk.
+Diffect gem, items waarop het gebruikt wordt krijgen twee effecten er bij. Is vaker permanent dan tijdelijk.
+XP gem, dit zijn gems die de speler xp geven en soms ook instant level upt.
+Duplicate gem, heel zeldzame gems die wapens, schilden en armors kan dupliceren. Dupliceerde item heeft alleen de vanilla stats. Werkt niet op alle items.
+Perfect Duplicate gem, zeer zeldzame gem die Wapens, schilden en armors kan dupliceren, Dupliceerde item heeft alle stats van source item. Werkt niet op alle items.
+
+Repair kit
+
+Dit is een consumable die durability van items kan herstellen. Wordt alleen verkocht en gekocht bij de smith en general store.
+Repair kits worden eenmalig gebruikt.
+
+Lijst van Repair kits
+
+Wapen Repair kit, herstelt durability van wapens. Is het op 1 na goedkoopste type samen met Schild Repair kittype.
+Schild Repair kit, herstelt durability van schilden. Is het op 1 na goedkoopste type samen met WapenRepair kittype.
+Light Armor Repair kit, herstelt durability van light armor. Is het goedkoopste repair kittype.
+Med Armor Repair kit, herstelt durability van medium armor. Is het op 2 na goedkoopste repair kittype.
+Heavy Armor Repair kit, herstelt durability van heavy armor. Is het op 2 na duurste repair kittype.
+Omnus Repair kit, kan alles repareren. Is het duurste repair kittype.
+Multi Armor Repair kit, repareert alle armor types. is het op 1 na duurste repair kittype.
+
+Orb
+
+Orbs zijn consumable voornamelijk bedoeld om barriers te maken of te teleporteren. Orbs kunnen meerdere keren worden gebruikt en hebben een durability. De durability kan worden herstelt in de 
+Bazaar. Orbs kunnen gekocht worden in general stores en in de Bazaars of als drops gevonden worden, maar hoe dan ook Orbs zijn altijd rare of hoger in de rarity scale.
+
+Lijst van Orb types
+
+Locked Teleport Orb, teleporteert speler naar een lokatie die al in de orb staat aangegeven. Dit is het minst zeldzaamste Orb type.
+Free Teleport Orb, teleporteert speler naar lokatie van eigen keuze. Dit is het op 1 na minst zeldzaamste Orb type.
+Elemental Barrier Orb, Creërt een barrier rondom de speler die NPC's buiten of binnen houden. De tijdsduur van de barriers verschillen per orb. NPC's die de muur raken worden gedamaged door de
+			element die erop zit. Dit is de op 1 na zeldzaamste Orb type.
+Cursing Orb, Inplaats van een barrier creërt deze Orb een AoE die de NPC's damagen. Dit is de zeldzaamste Orb type. 

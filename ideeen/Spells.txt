@@ -1,0 +1,64 @@
+Dit document bevat nog geen lijst van spells
+
+De verschillende "spells"
+
+Er zijn drie soorten "spells" dat gebruikt wordt.
+Eerste "spells" zijn de spells dit zijn alle actives.
+Tweede zijn de abilities dit zijn alle passives.
+Derde zijn perks dit zijn "spells" in de skilltrees
+die de speler bonussen geven. Dit kan van alles zijn.
+
+Slots
+
+De speler heeft 9 slots waarin elk slot een spell of 
+ability zit. Sommige spells kunnen meer dan 1 slot 
+kosten. De speler unlocked en equipped een spell 
+door eerst langs de Bazaar te gaan en bij bepaalde
+trainers scrolls in te leveren.
+
+De speler kan de spells (un)equippen in een "magic 
+bank" , die zich in de Bazaar bevindt, waar de spells
+in opgeslagen zijn.
+
+Spells
+
+Spells zijn niet allemaal Will based al zal iemand
+dit wel snel denken, vanwege de naam. Spells zijn 
+actives die de speler kan equipen en tijdens of 
+buiten gevechten ze handmatig moet activeren.
+Soms kan de speler dit pas doen als hij aan bepaalde
+eisen voldoet, zoals gebied, tijd, level req..
+
+Spells kosten normaal gesproken MP om te gebruiken,
+er zijn spells die iets anders gebruiken of helemaal
+gratis geactiveerd kunnen worden.
+
+De effecten van spells zijn altijd tijdelijk. De
+effecten houden op wanneer de timer op is, wanneer
+de target dood is of wanneer ze gecanceled worden.
+
+Met welke skill een spell verbonden is wordt 
+aangegeven als volgt: Scales w/ Skill. Spells can
+stack with any given skill.
+Hoe hoger een skill is waarmee een spell scaled,
+des de sterker de spell is.
+
+Abilities
+
+Abilities zijn passives die de speler kan equipen
+in zijn spellslots. Wanneer geëquipt blijft de 
+ability constant effect op de speler of rondom de
+speler hebben. Passives zijn vaak buffs en debuffs.
+
+Perks
+
+Perks zijn niet equipable, maar inplaats daar van
+zijn ze unlockable door bepaalde punten in een
+skilltree te zetten of ze te kopen bij de Bazaar,
+maar ze zijn vrij zeldzaam en duur in de Bazaar.
+
+Perks kunnen spelerseen constante bonus geven of een
+eenmalige bonus. De eenmalige bonus zijn vaak spells,
+wapens,schilden,armor of een automatische level up
+(??). Constante bonussen zijn buffs op bepaalde 
+equipments of skills.

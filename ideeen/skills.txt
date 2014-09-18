@@ -1,0 +1,28 @@
+WIll
+	+SpellPower
+	+Mana
+
+Vitality
+	+HP
+	+SP**
+
+Strength
+	+Melee Power
+	+Melee Crit
+
+Skill
+	+Stealth
+	+Bonus power while stealth
+
+Regen
+	+HP5
+	+MP5
+	+SP5
+
+Accuracy
+	+Ranged Power
+	+Ranged Crit
+
+
+	
+**= levelt niet
